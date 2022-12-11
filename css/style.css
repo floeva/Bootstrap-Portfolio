@@ -1,0 +1,19 @@
+.navbar {
+
+    background-color: #ecc4bc;
+    font-weight: 400;
+    flex-direction: row-reverse;
+    font-size: x-large;
+    border-bottom: 5px solid #f09785;
+
+}
+
+.body {
+    background-color: bisque;
+}
+.navbar-brand{
+    font-size: 200%;
+    font-weight: 300;
+    font-family: "Unbounded", sans-serif;
+
+}
