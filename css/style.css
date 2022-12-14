@@ -29,6 +29,7 @@
 }
 .container-fluid{
  margin: 0;   padding: 0;
+ background-image: url(https://img.freepik.com/premium-vector/abstract-terrazzo-wallpaper-abstract-terrazzo-background_255319-1439.jpg);
 }
 .mypic{
 padding: 8px;
@@ -78,5 +79,12 @@ border-style: double;
   }
   .section-contact{
    text-align: center; 
-   font-size: large
+   font-size: large;
+   font-weight: 700;
+   text-transform: uppercase;
+   background-color: #ecc4bc;
   }
+.btn{
+    color: azure;
+    background-color: #dd4b39 ;
+}
