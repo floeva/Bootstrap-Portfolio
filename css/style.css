@@ -20,7 +20,7 @@
 .jumbotron{
   padding: 40px; 
   background-image: url(https://miro.medium.com/max/828/0*HHdvPuV6twdFR1wb);
-  color: rgb(244, 242, 242); 
+  color: rgb(239, 233, 233); 
   font-family: Inconsolata, sans-serif;
   background-repeat:no-repeat;
   background-size: cover;
@@ -31,5 +31,15 @@
  margin: 0;   padding: 0;
 }
 .mypic{
-padding: 6px;
+padding: 8px;
+border: #f09785 5px;
+border-style: solid;
+}
+.page-section{
+ background-color: #ecc4bc;
+ text-align: center; 
+}
+.display-4{
+ font-weight: 800;
+ margin: 10px;
 }
