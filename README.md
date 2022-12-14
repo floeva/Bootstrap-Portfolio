@@ -1,7 +1,7 @@
 # Bootstrap-Portfolio
 
 
-## Proffesional Developer Portfolio
+## Professional Developer Portfolio
 
 
 - This portfolio websites aim is to display the information and project for my web development work, which I will add to as I complete further project.
